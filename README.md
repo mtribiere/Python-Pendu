@@ -16,5 +16,5 @@ A simple game called "pendu", with 3 different game modes, coded in python.
 Entrer votre choix : 
 ```
 
-# Autor
+# Author
 [Jaaber]
